@@ -1,0 +1,16 @@
+mkdir Part-A 
+cd Part-A 
+git --version
+create repository on github
+create text file inside Part-A 
+git init
+git add.
+git status
+git remote add origin "github repository link"
+git commit -m "First Commit"
+git status
+//pust
+git pust -u origin master
+to authanticate
+git config --global user.email "your email"
+git config --global user.name "Your git hub user name"
